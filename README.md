@@ -1,2 +1,2 @@
 # SyatemDesignPattern
-This if System Design Repo For Learning System Design Pattern
+This is System Design Repo For Learning System Design Pattern
