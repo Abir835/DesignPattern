@@ -1,2 +1,2 @@
-# SyatemDesignPattern
-This is System Design Repo For Learning System Design Pattern
+# DesignPattern
+This is a Design pattern Repo For Learning Design pattern
