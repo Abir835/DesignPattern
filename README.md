@@ -1,2 +1,2 @@
 # DesignPattern
-This is a Design pattern Repo For Learning Design pattern
+This is a Design pattern Repo For Learning Design patterns
